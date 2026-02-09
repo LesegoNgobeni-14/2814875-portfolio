@@ -1,0 +1,1 @@
+In this lab i learnt how to clone my repository to my local machine as well as basic html code.
